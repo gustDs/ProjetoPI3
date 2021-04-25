@@ -9,4 +9,4 @@ Richard dos Santos Gomes
 Romulo Antonio Rodrigues
 Luiz Fernando Ribeiro Ferreira
 
-Ramo da Empresa: Comércio de Móveis.
+Ramo da Empresa: Comércio de Informática.
